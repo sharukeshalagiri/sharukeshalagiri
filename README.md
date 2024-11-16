@@ -1,6 +1,6 @@
 # 💫 About Me:
-**Sharukesh Alagiri**  
-- **First-Year BE CSE Student** | Anna University, MIT Campus, Chennai  
+## **Sharukesh Alagiri**  
+- **First-Year BE CSE Student | Anna University, MIT Campus, Chennai**  
 - Passionate about programming and problem-solving. Currently building a solid foundation in Computer Science with a focus on C and its application in software development. Eager to learn, contribute to real-world projects, and collaborate with like-minded individuals.  
 
 🔹 **Skills & Interests:**  
