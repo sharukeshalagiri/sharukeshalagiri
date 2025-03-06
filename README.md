@@ -9,6 +9,7 @@
 - Problem Solving (Competitive Programming)  
 - System Design & Development  
 - Software Development Fundamentals  
+- Object Oriented Programming
 
 🔹 **What I’m Working On:**  
 - Exploring open-source contributions  
