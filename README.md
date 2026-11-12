@@ -24,16 +24,11 @@
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48" height="48"/>
-  <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-  title="Oracle"
-  alt="Oracle"
-  width="48"
-  height="48"
-/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="48" height="48"/>
 </p>
-
 
 
 ---
