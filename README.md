@@ -32,8 +32,6 @@
   height="48"
 />
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/>
 </p>
 
 
@@ -42,7 +40,6 @@
 
 <p align="center">
   <a href="https://sharukesh.com/"><img src="assets/icons/web-white.svg" width="40" height="40" alt="Website"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/sharukeshalagiri"><img src="assets/icons/github-white.svg" width="40" height="40" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sharukeshalagiri/"><img src="assets/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:sharukeshalagiri@gmail.com"><img src="assets/icons/gmail.svg" width="40" height="40" alt="Gmail"/></a>
 </p>
