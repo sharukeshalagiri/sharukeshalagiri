@@ -41,25 +41,10 @@
 ---
 
 <p align="center">
-  <!-- Website (Globe) -->
-  <a href="https://sharukesh.com/" target="_blank">
-    <img src="https://api.iconify.design/mdi:web.svg?color=%23ffffff" width="40" height="40" alt="Website"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- GitHub -->
-  <a href="https://github.com/sharukeshalagiri" target="_blank">
-    <img src="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff" width="40" height="40" alt="GitHub"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sharukeshalagiri/" target="_blank">
-    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="40" height="40" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- Gmail -->
-  <a href="mailto:sharukeshalagiri@gmail.com">
-    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23EA4335" width="40" height="40" alt="Gmail"/>
-  </a>
+  <a href="https://sharukesh.com/"><img src="assets/icons/web.svg" width="40" height="40" alt="Website"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sharukeshalagiri"><img src="assets/icons/github.svg" width="40" height="40" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sharukeshalagiri/"><img src="assets/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sharukeshalagiri@gmail.com"><img src="assets/icons/gmail.svg" width="40" height="40" alt="Gmail"/></a>
 </p>
 
 
